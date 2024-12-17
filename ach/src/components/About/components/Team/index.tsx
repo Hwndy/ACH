@@ -14,7 +14,7 @@ const teamMembers = [
     name: 'Sulaimon Ibrahim',
     role: 'Full Stack Developer',
     description: 'A passionate developer and master electrician with vast experience in web design and development.',
-    image: 'https://images.unsplash.com/photo-1556157382-97eda2f9e2bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80'
+    image: '/IBM.jpg'
   },
   {
     name: 'Our Tutors',
